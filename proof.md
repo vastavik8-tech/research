@@ -10,13 +10,13 @@ This struggle is not new, in a historical story, Zeno’s Paradox of Achilles an
 It was not until the development of modern calculus by Sir Isaac Newton that mathematics formalized how an infinite sum of shrinking steps could equal a whole. In a true continuum of real numbers, 0.999... and 1 are not two distinct numbers close to one another; they are two different symbolic representations of the exact same real number value. 
 2 -PROOF-
 2.1 - The basic fractional proof -  
-![The basic fractional proof](https://www.image2url.com/r2/default/images/1782109071494-eb355384-59e6-4230-ac20-d3583bb6b745.png)
+![image](https://www.image2url.com/r2/default/images/1782111859161-d2c473b3-4ef0-4a02-aac7-c373bd4c2001.png)
 
 2.2 - the basic algebraic proof -
-![The basic algebraic proof](https://www.image2url.com/r2/default/images/1782109169773-0ab7cec9-0cfb-4e1c-8290-1e7acbf69e91.png)
+![image](https://www.image2url.com/r2/default/images/1782112110205-7eeeea4b-43d6-49ca-8662-96468059b2bd.png)
 
 2.3 - the advanced limit proof -
-![The advanced limit proof](https://www.image2url.com/r2/default/images/1782109312195-96788d14-3422-40c2-8074-947c9fe9b0d2.png)
+![image](https://www.image2url.com/r2/default/images/1782111546333-896ea02a-45d2-49f9-8367-661789535d9c.png)
 
 This is a geometric series because to get from one term to the next, you always multiply by the same ratio (r)
 First term (a) = 9/10
@@ -39,7 +39,7 @@ In pure math, we define the value of an infinite series as the limit of its part
 If you stop at 3 terms, you get 0.999.
 If you stop at 50 terms, you get 0.999...9 (50 times).
 As the number of terms goes to infinity, the difference between your sum and $1$ becomes exactly 0. In the language of calculus:
-![Calculus limit evaluation](https://www.image2url.com/r2/default/images/1782109600381-8cebffef-fa83-4a88-8072-7eedaf58709f.png)
+![image](https://www.image2url.com/r2/default/images/1782112717526-8a579a90-96e7-425a-b294-c9e9eeb4c3f5.png)
 
 There is no "approximation" here. The limit doesn't just get close to 1; the limit is 1. 
 
