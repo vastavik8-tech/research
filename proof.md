@@ -51,10 +51,14 @@ But the number line doesn't have gaps. In math, if two numbers are truly differe
 Now, try to think of a number that sits between 0.999... and 1. There is absolutely no space left between them. Because no number can fit between them, they aren't two separate numbers, just two different ways to write the exact same spot on the number line.
 Ultimately,this proves that though our brains may fail to understand infinity, math is a tool that helps visualize it.
 
-References
+References -
+
 Stewart, J. (2015). Calculus: Early Transcendentals (8th ed.). Cengage Learning.
+
 Rudin, W. (1976). Principles of Mathematical Analysis (3rd ed.). McGraw-Hill.
+
 Mazur, J. (2007). Zeno's Paradox: Unraveling the Ancient Mystery Behind the Science of Space and Time. Plume.
 
 Rudin, W. (1976). Principles of Mathematical Analysis (3rd ed.). McGraw-Hill.
+
 Mazur, J. (2007). Zeno's Paradox: Unraveling the Ancient Mystery Behind the Science of Space and Time. Plume.
