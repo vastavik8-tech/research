@@ -24,10 +24,11 @@ Common ratio (r) =  1/10 (As after each step, the denominator gets x10ed)
 
 The formula -
 In calculus, there is a proven formula for finding the exact sum ($S$) of an infinite geometric series, provided that the ratio (r) is between -1 and 1:  
-![Infinite geometric series formula](https://www.image2url.com/r2/default/images/1782109537225-4a939861-d18c-4e5c-9cd2-e61bc8abced9.png)
+![image](https://www.image2url.com/r2/default/images/1782111337191-a2ee61ee-33cc-49c5-ac39-9691c18a8428.png)
 
 
 Plugging in values = 
+
 S = (9/10)/1-(1/10)
 S = (9/10)/(9/10)
 S = 1 (As any non-zero number divided by itself is 1)
