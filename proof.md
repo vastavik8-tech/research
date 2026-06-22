@@ -1,8 +1,8 @@
 # research
-a research paper on 0.9 repeating is exactly equal to one.
+
 In mathematics, certain concepts challenge human intuition and understanding. One such example is the statement, 0.999… = 1. For the average human, this seems wrong. How can a decimal be exactly equal to an integer, shouldn’t it be infinitely close? Well, this is where most people go wrong, there are several ways to prove this but in this paper we will be using the most popular three ways (fraction, algebra and infinite geometric series). This paper will prove that 0.999… = 1 and that those two numbers aren’t different, but just two different representations of a whole.
 
-Introduction and Historical Context
+Introduction and Historical Context: 
 One of the biggest debates in the history of mathematics is whether 0.999…=1. To the normal person, 0.999=1 seems wrong. It should be infinitely close to one and not equal to one as a decimal should not be the same as an integer. The debate is real but can be easily disproven.
 
 This struggle is not new, in a historical story, Zeno’s Paradox of Achilles and the Tortoise. Zeno argued that a faster runner could never overtake a slower runner if given a head start, because the pursuer must first reach the point where the pursued started, creating an infinite series of smaller distances. 
