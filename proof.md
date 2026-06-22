@@ -9,20 +9,22 @@ This struggle is not new, in a historical story, Zeno’s Paradox of Achilles an
 
 It was not until the development of modern calculus by Sir Isaac Newton that mathematics formalized how an infinite sum of shrinking steps could equal a whole. In a true continuum of real numbers, 0.999... and 1 are not two distinct numbers close to one another; they are two different symbolic representations of the exact same real number value. 
 2 -PROOF-
-2.1 - The basic fractional proof - 
-https://www.image2url.com/r2/default/images/1782109071494-eb355384-59e6-4230-ac20-d3583bb6b745.png
+2.1 - The basic fractional proof -  
+![The basic fractional proof](https://www.image2url.com/r2/default/images/1782109071494-eb355384-59e6-4230-ac20-d3583bb6b745.png)
+
 2.2 - the basic algebraic proof -
-https://www.image2url.com/r2/default/images/1782109169773-0ab7cec9-0cfb-4e1c-8290-1e7acbf69e91.png
+![The basic algebraic proof](https://www.image2url.com/r2/default/images/1782109169773-0ab7cec9-0cfb-4e1c-8290-1e7acbf69e91.png)
+
 2.3 - the advanced limit proof -
-https://www.image2url.com/r2/default/images/1782109312195-96788d14-3422-40c2-8074-947c9fe9b0d2.png
+![The advanced limit proof](https://www.image2url.com/r2/default/images/1782109312195-96788d14-3422-40c2-8074-947c9fe9b0d2.png)
 
 This is a geometric series because to get from one term to the next, you always multiply by the same ratio (r)
 First term (a) = 9/10
 Common ratio (r) =  1/10 (As after each step, the denominator gets x10ed)
 
 The formula -
-In calculus, there is a proven formula for finding the exact sum ($S$) of an infinite geometric series, provided that the ratio (r) is between -1 and 1: 
-https://www.image2url.com/r2/default/images/1782109537225-4a939861-d18c-4e5c-9cd2-e61bc8abced9.png
+In calculus, there is a proven formula for finding the exact sum ($S$) of an infinite geometric series, provided that the ratio (r) is between -1 and 1:  
+![Infinite geometric series formula](https://www.image2url.com/r2/default/images/1782109537225-4a939861-d18c-4e5c-9cd2-e61bc8abced9.png)
 
 
 Plugging in values = 
@@ -36,7 +38,7 @@ In pure math, we define the value of an infinite series as the limit of its part
 If you stop at 3 terms, you get 0.999.
 If you stop at 50 terms, you get 0.999...9 (50 times).
 As the number of terms goes to infinity, the difference between your sum and $1$ becomes exactly 0. In the language of calculus:
-https://www.image2url.com/r2/default/images/1782109600381-8cebffef-fa83-4a88-8072-7eedaf58709f.png
+![Calculus limit evaluation](https://www.image2url.com/r2/default/images/1782109600381-8cebffef-fa83-4a88-8072-7eedaf58709f.png)
 
 There is no "approximation" here. The limit doesn't just get close to 1; the limit is 1. 
 
